@@ -1,0 +1,462 @@
+StationID,ExitID,Stair,Escalator,Elevator,StationName_Zh_tw,StationName_En,ExitName_Zh_tw,ExitName_En,ExitPosition_PositionLon,ExitPosition_PositionLat,ExitPosition_GeoHash,VersionID,station_join_key
+BL01,1,True,2,True,頂埔,Dingpu,頂埔站出口1,Dingpu Exit 1,121.418218,24.959306,wsqmfzwn3,3,頂埔
+BL01,2,True,2,False,頂埔,Dingpu,頂埔站出口2,Dingpu Exit 2,121.419,24.95931,wsqmfzwwe,3,頂埔
+BL01,3,True,1,True,頂埔,Dingpu,頂埔站出口3,Dingpu Exit 3,121.4196,24.95962,wsqmfzz03,3,頂埔
+BL01,4,True,0,True,頂埔,Dingpu,頂埔站出口4,Dingpu Exit 4,121.4201,24.96039,wsqmfzzkv,3,頂埔
+BL02,1,True,1,True,永寧,Yongning,永寧站出口1,Yongning Exit 1,121.435254,24.966714,wsqq5343w,3,永寧
+BL02,2,True,2,True,永寧,Yongning,永寧站出口2,Yongning Exit 2,121.43568,24.966102,wsqq52fy0,3,永寧
+BL02,3,False,1,False,永寧,Yongning,永寧站出口3,Yongning Exit 3,121.436799,24.966947,wsqq535e4,3,永寧
+BL02,4,True,2,False,永寧,Yongning,永寧站出口4,Yongning Exit 4,121.436412,24.967191,wsqq535k3,3,永寧
+BL03,1,True,2,True,土城,Tucheng,土城站出口1,Tucheng Exit 1,121.444173,24.973251,wsqq5d0zw,3,土城
+BL03,2,True,2,False,土城,Tucheng,土城站出口2,Tucheng Exit 2,121.443671,24.972663,wsqq5d0s6,3,土城
+BL03,3,True,0,False,土城,Tucheng,土城站出口3,Tucheng Exit 3,121.445266,24.973714,wsqq5d3dr,3,土城
+BL04,1,True,2,False,海山,Haishan,海山站出口1,Haishan Exit 1,121.448615,24.985375,wsqq5sknm,3,海山
+BL04,2,True,3,True,海山,Haishan,海山站出口2,Haishan Exit 2,121.448956,24.985329,wsqq5skqj,3,海山
+BL04,3,True,2,False,海山,Haishan,海山站出口3,Haishan Exit 3,121.449127,24.98609,wsqq5ssd9,3,海山
+BL05,1,True,2,False,亞東醫院,Far Eastern Hospital,亞東醫院站出口1,Far Eastern Hospital Exit 1,121.452581,24.998933,wsqq5wzj6,3,亞東醫院
+BL05,2,False,1,False,亞東醫院,Far Eastern Hospital,亞東醫院站出口2,Far Eastern Hospital Exit 2,121.452388,24.998252,wsqq5wycm,3,亞東醫院
+BL05,3,True,1,True,亞東醫院,Far Eastern Hospital,亞東醫院站出口3,Far Eastern Hospital Exit 3,121.45287,24.998875,wsqq5wzm0,3,亞東醫院
+BL06,1,True,1,True,府中,Fuzhong,府中站出口1,Fuzhong Exit 1,121.459077,25.008486,wsqq7beuc,3,府中
+BL06,2,True,1,False,府中,Fuzhong,府中站出口2,Fuzhong Exit 2,121.459501,25.008943,wsqq7bspe,3,府中
+BL06,3,True,0,False,府中,Fuzhong,府中站出口3,Fuzhong Exit 3,121.45897,25.009162,wsqq7bg8z,3,府中
+BL07,1,True,1,False,板橋,Banqiao,板橋站出口1,Banqiao Exit 1,121.461754,25.013416,wsqq7ctc8,3,BL板橋
+BL07,2,True,1,False,板橋,Banqiao,板橋站出口2,Banqiao Exit 2,121.462483,25.013192,wsqq7cw22,3,BL板橋
+BL07,3,True,1,True,板橋,Banqiao,板橋站出口3,Banqiao Exit 3,121.462589,25.014554,wsqq7cy27,3,BL板橋
+BL08,1,True,1,False,新埔,Xinpu,新埔站出口1,Xinpu Exit 1,121.467457,25.023063,wsqqk53cu,3,新埔
+BL08,2,True,1,False,新埔,Xinpu,新埔站出口2,Xinpu Exit 2,121.468176,25.0222,wsqqk54kv,3,新埔
+BL08,3,True,2,False,新埔,Xinpu,新埔站出口3,Xinpu Exit 3,121.468574,25.022844,wsqqk568w,3,新埔
+BL08,4,True,1,True,新埔,Xinpu,新埔站出口4,Xinpu Exit 4,121.468728,25.023638,wsqqk56v6,3,新埔
+BL08,5,True,1,True,新埔,Xinpu,新埔站出口5,Xinpu Exit 5,121.468138,25.024163,wsqqk5d2k,3,新埔
+BL09,1,True,2,False,江子翠,Jiangzicui,江子翠站出口1,Jiangzicui Exit 1,121.471914,25.030298,wsqqkhthh,3,江子翠
+BL09,2,False,1,False,江子翠,Jiangzicui,江子翠站出口2,Jiangzicui Exit 2,121.471903,25.029782,wsqqkht1h,3,江子翠
+BL09,3,False,1,True,江子翠,Jiangzicui,江子翠站出口3,Jiangzicui Exit 3,121.472156,25.029459,wsqqkhmr4,3,江子翠
+BL09,4,True,2,False,江子翠,Jiangzicui,江子翠站出口4,Jiangzicui Exit 4,121.472719,25.029763,wsqqkht8z,3,江子翠
+BL09,5,True,2,False,江子翠,Jiangzicui,江子翠站出口5,Jiangzicui Exit 5,121.473609,25.031027,wsqqkhy2k,3,江子翠
+BL09,6,True,2,False,江子翠,Jiangzicui,江子翠站出口6,Jiangzicui Exit 6,121.473126,25.031095,wsqqkhy08,3,江子翠
+BL10,1,True,1,True,龍山寺,Longshan Temple,龍山寺站出口1,Longshan Temple Exit 1,121.49953,25.035484,wsqqkv962,3,龍山寺
+BL10,2,True,1,False,龍山寺,Longshan Temple,龍山寺站出口2,Longshan Temple Exit 2,121.499798,25.035109,wsqqkv92n,3,龍山寺
+BL10,3,True,0,False,龍山寺,Longshan Temple,龍山寺站出口3,Longshan Temple Exit 3,121.501622,25.035421,wsqqkvdcb,3,龍山寺
+BL11,1,True,1,False,西門,Ximen,西門站出口1,Ximen Exit 1,121.507566,25.042137,wsqqkyz15,3,西門
+BL11,2,True,0,False,西門,Ximen,西門站出口2,Ximen Exit 2,121.508435,25.041545,wsqqkyxtx,3,西門
+BL11,3,True,1,False,西門,Ximen,西門站出口3,Ximen Exit 3,121.508888,25.041789,wsqqmn8nf,3,西門
+BL11,4,True,1,True,西門,Ximen,西門站出口4,Ximen Exit 4,121.509006,25.042203,wsqqmnb1m,3,西門
+BL11,5,True,0,False,西門,Ximen,西門站出口5,Ximen Exit 5,121.508789,25.042935,wsqqkyzvx,3,西門
+BL11,6,True,1,True,西門,Ximen,西門站出口6,Ximen Exit 6,121.507602,25.042573,wsqqkyz5s,3,西門
+BL12,,True,0,False,台北車站,Taipei Main Station,台北車站M6,Taipei Main Station Exit M6,121.516787,25.046234,wsqqmptbf,3,台北車站
+BL12,,False,1,False,台北車站,Taipei Main Station,台北車站M5,Taipei Main Station Exit M5,121.516246,25.046755,wsqqmpt7v,3,台北車站
+BL12,,False,1,False,台北車站,Taipei Main Station,台北車站M3,Taipei Main Station Exit M3,121.517882,25.046337,wsqqmpw97,3,台北車站
+BL12,,True,2,False,台北車站,Taipei Main Station,台北車站M1,Taipei Main Station Exit M1,121.518193,25.048232,wsqqmpyue,3,台北車站
+BL12,,False,1,True,台北車站,Taipei Main Station,台北車站M4,Taipei Main Station Exit M4,121.517345,25.046485,wsqqmpw4r,3,台北車站
+BL12,,False,1,False,台北車站,Taipei Main Station,台北車站M8,Taipei Main Station Exit M8,121.517479,25.045948,wsqqmpqr4,3,台北車站
+BL12,,True,1,True,台北車站,Taipei Main Station,台北車站M2,Taipei Main Station Exit M2,121.519067,25.048064,wsqqmpz7x,3,台北車站
+BL12,,True,0,False,台北車站,Taipei Main Station,台北車站M7,Taipei Main Station Exit M7,121.518643,25.046077,wsqqmprpv,3,台北車站
+BL13,1,True,2,False,善導寺,Shandao Temple,善導寺站出口1,Shandao Temple Exit 1,121.523009,25.045097,wsqqmr667,3,善導寺
+BL13,2,True,0,False,善導寺,Shandao Temple,善導寺站出口2,Shandao Temple Exit 2,121.523053,25.044796,wsqqmr62s,3,善導寺
+BL13,3,True,1,True,善導寺,Shandao Temple,善導寺站出口3,Shandao Temple Exit 3,121.523734,25.044568,wsqqmr4zh,3,善導寺
+BL13,4,True,1,False,善導寺,Shandao Temple,善導寺站出口4,Shandao Temple Exit 4,121.524217,25.044111,wsqqmr5hx,3,善導寺
+BL13,5,True,0,False,善導寺,Shandao Temple,善導寺站出口5,Shandao Temple Exit 5,121.52482,25.044256,wsqqmr5tm,3,善導寺
+BL13,6,False,1,False,善導寺,Shandao Temple,善導寺站出口6,Shandao Temple Exit 6,121.524898,25.044632,wsqqmr5xx,3,善導寺
+BL14,1,False,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口1,Zhongxiao Xinsheng Exit 1,121.531829,25.042784,wsqqmwbub,3,忠孝新生
+BL14,2,True,1,True,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口2,Zhongxiao Xinsheng Exit 2,121.532065,25.042103,wsqqmwbby,3,忠孝新生
+BL14,3,True,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口3,Zhongxiao Xinsheng Exit 3,121.53368,25.041783,wsqqmwdnu,3,忠孝新生
+BL14,4,False,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口4,Zhongxiao Xinsheng Exit 4,121.533213,25.042458,wsqqmwcfc,3,忠孝新生
+BL14,5,True,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口5,Zhongxiao Xinsheng Exit 5,121.532232,25.041214,wsqqmw95d,3,忠孝新生
+BL14,6,False,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口6,Zhongxiao Xinsheng Exit 6,121.533068,25.040791,wsqqmw99j,3,忠孝新生
+BL14,7,True,0,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口7,Zhongxiao Xinsheng Exit 7,121.533068,25.041729,wsqqmw9wt,3,忠孝新生
+BL15,1,False,1,False,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口1,Zhongsxiao Fuxing Exit 1,121.543143,25.041797,wsqqmy9p0,3,忠孝復興
+BL15,2,True,1,True,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口2,Zhongsxiao Fuxing Exit 2,121.543422,25.041355,wsqqmy9hr,3,忠孝復興
+BL15,3,False,1,False,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口3,Zhongsxiao Fuxing Exit 3,121.544806,25.041467,wsqqmydjp,3,忠孝復興
+BL15,4,True,2,False,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口4,Zhongsxiao Fuxing Exit 4,121.54506,25.041772,wsqqmydqv,3,忠孝復興
+BL15,5,True,0,False,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口5,Zhongsxiao Fuxing Exit 5,121.543985,25.04202,wsqqmyc8k,3,忠孝復興
+BL16,1,True,0,False,忠孝敦化,Zhongxiao Dunhua,忠孝敦化站出口1,Zhongxiao Dunhua Exit 1,121.550578,25.041642,wsqqmywqj,3,忠孝敦化
+BL16,2,False,1,True,忠孝敦化,Zhongxiao Dunhua,忠孝敦化站出口2,Zhongxiao Dunhua Exit 2,121.551694,25.041632,wsqqmyxnp,3,忠孝敦化
+BL16,3,False,1,False,忠孝敦化,Zhongxiao Dunhua,忠孝敦化站出口3,Zhongxiao Dunhua Exit 3,121.551586,25.04134,wsqqmyxhm,3,忠孝敦化
+BL16,4,True,0,False,忠孝敦化,Zhongxiao Dunhua,忠孝敦化站出口4,Zhongxiao Dunhua Exit 4,121.550567,25.04135,wsqqmywkm,3,忠孝敦化
+BL16,5,True,2,False,忠孝敦化,Zhongxiao Dunhua,忠孝敦化站出口5,Zhongxiao Dunhua Exit 5,121.549824,25.041238,wsqqmytgu,3,忠孝敦化
+BL16,6,True,0,False,忠孝敦化,Zhongxiao Dunhua,忠孝敦化站出口6,Zhongxiao Dunhua Exit 6,121.549174,25.041029,wsqqmyt6t,3,忠孝敦化
+BL16,7,True,2,False,忠孝敦化,Zhongxiao Dunhua,忠孝敦化站出口7,Zhongxiao Dunhua Exit 7,121.549913,25.041661,wsqqmytyn,3,忠孝敦化
+BL16,8,True,0,False,忠孝敦化,Zhongxiao Dunhua,忠孝敦化站出口8,Zhongxiao Dunhua Exit 8,121.549194,25.041928,wsqqmytrv,3,忠孝敦化
+BL17,1,False,1,False,國父紀念館,Sun Yat-Sen Memorial Hall,國父紀念館站出口1,Sun Yat-Sen Memorial Hall Exit 1,121.556663,25.041838,wsqqqndz7,3,國父紀念館
+BL17,2,False,1,False,國父紀念館,Sun Yat-Sen Memorial Hall,國父紀念館站出口2,Sun Yat-Sen Memorial Hall Exit 2,121.556704,25.041029,wsqqqndfs,3,國父紀念館
+BL17,3,True,2,False,國父紀念館,Sun Yat-Sen Memorial Hall,國父紀念館站出口3,Sun Yat-Sen Memorial Hall Exit 3,121.557981,25.041195,wsqqqnegd,3,國父紀念館
+BL17,4,True,2,True,國父紀念館,Sun Yat-Sen Memorial Hall,國父紀念館站出口4,Sun Yat-Sen Memorial Hall Exit 4,121.558539,25.04117,wsqqqns5r,3,國父紀念館
+BL17,5,True,1,False,國父紀念館,Sun Yat-Sen Memorial Hall,國父紀念館站出口5,Sun Yat-Sen Memorial Hall Exit 5,121.558002,25.041501,wsqqqnev6,3,國父紀念館
+BL18,1,True,0,False,市政府,Taipei City Hall,市政府站出口1,Taipei City Hall Exit 1,121.565459,25.041408,wsqqqq9kb,3,市政府
+BL18,2,True,4,True,市政府,Taipei City Hall,市政府站出口2,Taipei City Hall Exit 2,121.565062,25.040971,wsqqqq8fp,3,市政府
+BL18,3,True,1,False,市政府,Taipei City Hall,市政府站出口3,Taipei City Hall Exit 3,121.567149,25.040903,wsqqqqd3z,3,市政府
+BL18,4,True,1,False,市政府,Taipei City Hall,市政府站出口4,Taipei City Hall Exit 4,121.567181,25.041263,wsqqqqdeb,3,市政府
+BL19,1,True,1,False,永春,Yongchun,永春站出口1,Yongchun Exit 1,121.57512,25.040995,wsqqqw863,3,永春
+BL19,2,True,0,False,永春,Yongchun,永春站出口2,Yongchun Exit 2,121.575383,25.040704,wsqqqw82x,3,永春
+BL19,3,True,0,False,永春,Yongchun,永春站出口3,Yongchun Exit 3,121.576155,25.040704,wsqqqw909,3,永春
+BL19,4,True,0,False,永春,Yongchun,永春站出口4,Yongchun Exit 4,121.576574,25.040699,wsqqqw92e,3,永春
+BL19,5,True,1,True,永春,Yongchun,永春站出口5,Yongchun Exit 5,121.576622,25.040961,wsqqqw96h,3,永春
+BL20,1,True,1,False,後山埤,Houshanpi,後山埤站出口1,Houshanpi Exit 1,121.58141,25.044422,wsqqqxhyk,3,後山埤
+BL20,2,True,1,False,後山埤,Houshanpi,後山埤站出口2,Houshanpi Exit 2,121.581854,25.043703,wsqqqxj4n,3,後山埤
+BL20,3,True,1,True,後山埤,Houshanpi,後山埤站出口3,Houshanpi Exit 3,121.583277,25.045232,wsqqqxq5p,3,後山埤
+BL20,4,True,1,False,後山埤,Houshanpi,後山埤站出口4,Houshanpi Exit 4,121.582441,25.045653,wsqqqxmts,3,後山埤
+BL21,1,True,0,False,昆陽,Kunyang,昆陽站出口1,Kunyang Exit 1,121.592726,25.050319,wsqqwbm0e,3,昆陽
+BL21,2,True,0,False,昆陽,Kunyang,昆陽站出口2,Kunyang Exit 2,121.592825,25.050402,wsqqwbm1n,3,昆陽
+BL21,3,True,0,False,昆陽,Kunyang,昆陽站出口3,Kunyang Exit 3,121.59363,25.050599,wsqqwbmf2,3,昆陽
+BL21,4,True,0,False,昆陽,Kunyang,昆陽站出口4,Kunyang Exit 4,121.593799,25.050572,wsqqwbmfh,3,昆陽
+BL22,1,True,1,False,南港,Nangang,南港站出口1,Nangang Exit 1,121.606357,25.051911,wsqqx0x1c,3,南港
+BL22,2,True,1,True,南港,Nangang,南港站出口2,Nangang Exit 2,121.60743,25.052025,wsqqx0xfd,3,南港
+BL23,,True,0,True,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口2A,Taipei Nangang Exhibition Center Exit 2A,121.617043,25.05524,wsqqx3nv6,3,南港展覽館
+BL23,1,True,1,True,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口1,Taipei Nangang Exhibition Center Exit 1,121.616936,25.055847,wsqqx3qbb,3,南港展覽館
+BL23,2,False,0,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口2,Taipei Nangang Exhibition Center Exit 2,121.616984,25.055308,wsqqx3nv9,3,南港展覽館
+BL23,3,False,0,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口3,Taipei Nangang Exhibition Center Exit 3,121.618239,25.055123,wsqqx3psw,3,南港展覽館
+BL23,4,False,0,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口4,Taipei Nangang Exhibition Center Exit 4,121.618266,25.055386,wsqqx3pwn,3,南港展覽館
+BL23,5,True,1,True,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口5,Taipei Nangang Exhibition Center Exit 5,121.616861,25.054917,wsqqx3neq,3,南港展覽館
+BL23,6,True,2,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口6,Taipei Nangang Exhibition Center Exit 6,121.618183,25.054739,wsqqx3pdm,3,南港展覽館
+BL23,7,True,2,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口7,Taipei Nangang Exhibition Center Exit 7,121.618148,25.054035,wsqqx2zwk,3,南港展覽館
+BR01,1,True,1,True,動物園,Taipei Zoo,動物園站出口1,Taipei Zoo Exit 1,121.579916,24.99825,wsqqnwgc3,3,動物園
+BR01,2,True,2,True,動物園,Taipei Zoo,動物園站出口2,Taipei Zoo Exit 2,121.579417,24.997948,wsqqnwert,3,動物園
+BR02,0,True,0,False,木柵,Muzha,木柵站出口,Muzha Exit ,121.573417,24.998174,wsqqnqz0c,3,木柵
+BR03,0,True,0,False,萬芳社區,Wanfang Community,萬芳社區站出口,Wanfang Community Exit,121.568409,24.99858,wsqqnqg7m,3,萬芳社區
+BR04,0,True,1,True,萬芳醫院,Wanfang Hospital,萬芳醫院站出口,Wanfang Hospital Exit,121.557737,24.999383,wsqqnngxu,3,萬芳醫院
+BR05,0,True,0,False,辛亥,Xinhai,辛亥站出口,Xinhai Exit,121.557021,25.005119,wsqqq0517,3,辛亥
+BR06,0,True,0,False,麟光,Linguang,麟光站出口,Linguang Exit,121.558606,25.018554,wsqqq4kr8,3,麟光
+BR07,0,True,1,True,六張犁,Liuzhangli,六張犁站出口,Liuzhangli Exit,121.552737,25.023852,wsqqq52n8,3,六張犁
+BR08,0,True,1,True,科技大樓,Technology Building,科技大樓站出口,Technology Building Exit,121.543636,25.026154,wsqqmgc7g,3,科技大樓
+BR09,1,True,2,False,大安,Daan,大安站出口1,Daan Exit 1,121.541949,25.033508,wsqqmv0nu,3,大安
+BR09,2,True,0,False,大安,Daan,大安站出口2,Daan Exit 2,121.541826,25.033515,wsqqmv0nc,3,大安
+BR09,3,True,2,True,大安,Daan,大安站出口3,Daan Exit 3,121.54233,25.033241,wsqqmv0mj,3,大安
+BR09,4,True,0,False,大安,Daan,大安站出口4,Daan Exit 4,121.544057,25.033066,wsqqmv1sj,3,大安
+BR09,5,True,0,False,大安,Daan,大安站出口5,Daan Exit 5,121.543719,25.032862,wsqqmv16v,3,大安
+BR09,6,True,2,False,大安,Daan,大安站出口6,Daan Exit 6,121.543749,25.034006,wsqqmv33w,3,大安
+BR10,1,False,1,False,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口1,Zhongsxiao Fuxing Exit 1,121.543143,25.041797,wsqqmy9p0,3,忠孝復興
+BR10,2,True,1,True,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口2,Zhongsxiao Fuxing Exit 2,121.543422,25.041355,wsqqmy9hr,3,忠孝復興
+BR10,3,False,1,False,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口3,Zhongsxiao Fuxing Exit 3,121.544806,25.041467,wsqqmydjp,3,忠孝復興
+BR10,4,True,2,False,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口4,Zhongsxiao Fuxing Exit 4,121.54506,25.041772,wsqqmydqv,3,忠孝復興
+BR10,5,True,0,False,忠孝復興,Zhongxiao Fuxing,忠孝復興站出口5,Zhongsxiao Fuxing Exit 5,121.543985,25.04202,wsqqmyc8k,3,忠孝復興
+BR11,1,True,1,True,南京復興,Nanjing Fuxing,南京復興站出口1,Nanjing Fuxing Exit 1,121.542121,25.052625,wsqqtb8q0,3,南京復興
+BR11,2,True,1,True,南京復興,Nanjing Fuxing,南京復興站出口2,Nanjing Fuxing Exit 2,121.541863,25.051748,wsqqtb814,3,南京復興
+BR11,3,False,2,False,南京復興,Nanjing Fuxing,南京復興站出口3,Nanjing Fuxing Exit 3,121.543237,25.051719,wsqqtb90f,3,南京復興
+BR11,4,False,3,False,南京復興,Nanjing Fuxing,南京復興站出口4,Nanjing Fuxing Exit 4,121.543237,25.051719,wsqqtb90f,3,南京復興
+BR11,5,True,2,False,南京復興,Nanjing Fuxing,南京復興站出口5,Nanjing Fuxing Exit 5,121.544338,25.051727,wsqqtb9bu,3,南京復興
+BR11,6,True,0,False,南京復興,Nanjing Fuxing,南京復興站出口6,Nanjing Fuxing Exit 6,121.544908,25.052057,wsqqtbd6c,3,南京復興
+BR11,7,True,1,True,南京復興,Nanjing Fuxing,南京復興站出口7,Nanjing Fuxing Exit 7,121.54447,25.052329,wsqqtb9ur,3,南京復興
+BR11,8,True,2,False,南京復興,Nanjing Fuxing,南京復興站出口8,Nanjing Fuxing Exit 8,121.543819,25.052018,wsqqtb9d8,3,南京復興
+BR12,0,True,1,True,中山國中,Zhongshan Junior High School,中山國中站出口,Zhongshan Junior High School Exit,121.544031,25.060889,wsqqtf1wm,3,中山國中
+BR13,1,True,2,True,松山機場,Songshan Airport,松山機場站出口1,Songshan Airport  Exit 1,121.552335,25.063717,wsqqtfxww,3,松山機場
+BR13,2,True,3,True,松山機場,Songshan Airport,松山機場站出口2,Songshan Airport  Exit 2,121.551294,25.063673,wsqqtfwyq,3,松山機場
+BR13,3,True,1,True,松山機場,Songshan Airport,松山機場站出口3,Songshan Airport  Exit 3,121.552241,25.062923,wsqqtfxdh,3,松山機場
+BR14,1,True,1,True,大直,Dazhi,大直站出口1,Dazhi Exit 1,121.547104,25.080118,wsqqtveyk,3,大直
+BR14,2,True,2,False,大直,Dazhi,大直站出口2,Dazhi Exit 2,121.546823,25.079584,wsqqtveen,3,大直
+BR14,3,False,1,True,大直,Dazhi,大直站出口3,Dazhi Exit 3,121.546901,25.07931,wsqqtvec8,3,大直
+BR15,1,True,0,True,劍南路,Jiannan Rd.,劍南路站出口1,Jiannan Rd. Exit 1,121.555226,25.085174,wsqqwn9gd,3,劍南路
+BR15,2,True,3,True,劍南路,Jiannan Rd.,劍南路站出口2,Jiannan Rd. Exit 2,121.555097,25.084754,wsqqwn99r,3,劍南路
+BR15,3,True,1,False,劍南路,Jiannan Rd.,劍南路站出口3,Jiannan Rd. Exit 3,121.556098,25.084484,wsqqwn6rw,3,劍南路
+BR16,1,True,1,True,西湖,Xihu,西湖站出口1,Xihu Exit 1,121.566647,25.082339,wsqqwq45h,3,西湖
+BR16,2,True,1,True,西湖,Xihu,西湖站出口2,Xihu Exit 2,121.567141,25.082023,wsqqwq43r,3,西湖
+BR17,1,True,1,True,港墘,Gangqian,港墘站出口1,Gangqian Exit 1,121.57556,25.080152,wsqqwt8w7,3,港墘
+BR17,2,True,1,True,港墘,Gangqian,港墘站出口2,Gangqian Exit 2,121.574704,25.080065,wsqqwmxvz,3,港墘
+BR18,1,True,3,True,文德,Wende,文德站出口1,Wende Exit 1,121.58564,25.078671,wsqqwtrvy,3,文德
+BR18,2,True,1,True,文德,Wende,文德站出口2,Wende Exit 2,121.58447,25.078408,wsqqwtrh7,3,文德
+BR19,1,True,1,True,內湖,Neihu,內湖站出口1,Neihu Exit 1,121.594266,25.083745,wsqqwyq5r,3,內湖
+BR19,2,True,3,True,內湖,Neihu,內湖站出口2,Neihu Exit 2,121.594612,25.083636,wsqqwyq6z,3,內湖
+BR20,1,True,3,True,大湖公園,Dahu Park,大湖公園站出口1,Dahu Park Exit 1,121.602377,25.083894,wsqqxnkhk,3,大湖公園
+BR20,2,True,1,True,大湖公園,Dahu Park,大湖公園站出口2,Dahu Park Exit 2,121.60221,25.083675,wsqqxnk4b,3,大湖公園
+BR21,1,True,3,True,葫洲,Huzhou,葫洲站出口1,Huzhou Exit 1,121.608047,25.072638,wsqqxk268,3,葫洲
+BR21,2,True,1,True,葫洲,Huzhou,葫洲站出口2,Huzhou Exit 2,121.607197,25.072534,wsqqxhrdj,3,葫洲
+BR22,1,True,0,True,東湖,Donghu,東湖站出口1,Donghu Exit 1,121.611129,25.067218,wsqqx76e0,3,東湖
+BR22,2,True,3,True,東湖,Donghu,東湖站出口2,Donghu Exit 2,121.611239,25.067111,wsqqx76de,3,東湖
+BR22,3,True,1,True,東湖,Donghu,東湖站出口3,Donghu Exit 3,121.611724,25.067053,wsqqx76fn,3,東湖
+BR23,1,True,3,True,南港軟體園區,Nangang Software Park,南港軟體園區站出口1,Nangang Software Park Exit 1,121.615817,25.059995,wsqqx6jcj,3,南港軟體園區
+BR23,2,True,3,True,南港軟體園區,Nangang Software Park,南港軟體園區站出口2,Nangang Software Park Exit 2,121.616091,25.059883,wsqqx6n0k,3,南港軟體園區
+BR24,,True,0,True,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口2A,Taipei Nangang Exhibition Center Exit 2A,121.617043,25.05524,wsqqx3nv6,3,南港展覽館
+BR24,1,True,1,True,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口1,Taipei Nangang Exhibition Center Exit 1,121.616936,25.055847,wsqqx3qbb,3,南港展覽館
+BR24,2,False,0,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口2,Taipei Nangang Exhibition Center Exit 2,121.616984,25.055308,wsqqx3nv9,3,南港展覽館
+BR24,3,False,0,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口3,Taipei Nangang Exhibition Center Exit 3,121.618239,25.055123,wsqqx3psw,3,南港展覽館
+BR24,4,False,0,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口4,Taipei Nangang Exhibition Center Exit 4,121.618266,25.055386,wsqqx3pwn,3,南港展覽館
+BR24,5,True,1,True,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口5,Taipei Nangang Exhibition Center Exit 5,121.616861,25.054917,wsqqx3neq,3,南港展覽館
+BR24,6,True,2,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口6,Taipei Nangang Exhibition Center Exit 6,121.618183,25.054739,wsqqx3pdm,3,南港展覽館
+BR24,7,True,2,False,南港展覽館,Taipei Nangang Exhibition Center,南港展覽館站出口7,Taipei Nangang Exhibition Center Exit 7,121.618148,25.054035,wsqqx2zwk,3,南港展覽館
+G01,0,True,0,False,新店,Xindian,新店站出口,Xindian Exit,121.537558,24.957877,wsqmvxkyn,3,新店
+G02,1,True,0,True,新店區公所,Xindian District Office,新店區公所站出口1,Xindian District Office Exit 1,121.541124,24.967393,wsqqj9pt9,3,新店區公所
+G02,2,True,0,False,新店區公所,Xindian District Office,新店區公所站出口2,Xindian District Office Exit 2,121.541845,24.967986,wsqqjc214,3,新店區公所
+G03,1,True,0,False,七張,Qizhang,七張站出口1,Qizhang Exit 1,121.543068,24.975025,wsqqjf8fn,3,七張
+G03,2,True,0,False,七張,Qizhang,七張站出口2,Qizhang Exit 2,121.542641,24.97691,wsqqjfbth,3,七張
+G04,1,True,1,False,大坪林,Dapinglin,大坪林站出口1,Dapinglin Exit 1,121.540874,24.982754,wsqqjezr5,3,大坪林
+G04,2,True,0,False,大坪林,Dapinglin,大坪林站出口2,Dapinglin Exit 2,121.541619,24.982051,wsqqjezfu,3,大坪林
+G04,3,True,1,True,大坪林,Dapinglin,大坪林站出口3,Dapinglin Exit 3,121.541572,24.982982,wsqqjspb7,3,大坪林
+G04,4,True,0,False,大坪林,Dapinglin,大坪林站出口4,Dapinglin Exit 4,121.541405,24.983539,wsqqjspg8,3,大坪林
+G04,5,True,2,True,大坪林,Dapinglin,大坪林站出口5,Dapinglin Exit 5,121.543209,24.982859,wsqqjgcpd,3,大坪林
+G05,1,True,1,True,景美,Jingmei,景美站出口1,Jingmei Exit 1,121.540933,24.992296,wsqqjtxqt,3,景美
+G05,2,True,1,False,景美,Jingmei,景美站出口2,Jingmei Exit 2,121.541517,24.993069,wsqqjtzg4,3,景美
+G05,3,True,1,False,景美,Jingmei,景美站出口3,Jingmei Exit 3,121.540546,24.992744,wsqqjtz17,3,景美
+G06,1,True,0,False,萬隆,Wanlong,萬隆站出口1,Wanlong Exit 1,121.538896,25.001367,wsqqjxmgt,3,萬隆
+G06,2,True,1,False,萬隆,Wanlong,萬隆站出口2,Wanlong Exit 2,121.539613,25.00151,wsqqjxqkq,3,萬隆
+G06,3,True,0,False,萬隆,Wanlong,萬隆站出口3,Wanlong Exit 3,121.539195,25.002215,wsqqjxw0k,3,萬隆
+G06,4,True,1,True,萬隆,Wanlong,萬隆站出口4,Wanlong Exit 4,121.538572,25.002676,wsqqjxtej,3,萬隆
+G07,1,True,1,True,公館,Gongguan,公館站出口1,Gongguan Exit 1,121.534377,25.014509,wsqqm9f8h,3,公館
+G07,2,True,1,True,公館,Gongguan,公館站出口2,Gongguan Exit 2,121.534721,25.014718,wsqqm9fck,3,公館
+G07,3,True,1,False,公館,Gongguan,公館站出口3,Gongguan Exit 3,121.534055,25.015413,wsqqm9fmk,3,公館
+G07,4,True,0,False,公館,Gongguan,公館站出口4,Gongguan Exit 4,121.533623,25.015148,wsqqm9f5f,3,公館
+G08,1,True,2,False,台電大樓,Taipower Building,台電大樓站出口1,Taipower Building Exit 1,121.528577,25.01962,wsqqm6wmv,3,台電大樓
+G08,2,True,1,False,台電大樓,Taipower Building,台電大樓站出口2,Taipower Building Exit 2,121.529093,25.020192,wsqqm6yc1,3,台電大樓
+G08,3,True,0,False,台電大樓,Taipower Building,台電大樓站出口3,Taipower Building Exit 3,121.527849,25.021179,wsqqm6vyu,3,台電大樓
+G08,4,True,0,False,台電大樓,Taipower Building,台電大樓站出口4,Taipower Building Exit 4,121.527297,25.021018,wsqqm6vmz,3,台電大樓
+G08,5,True,1,True,台電大樓,Taipower Building,台電大樓站出口5,Taipower Building Exit 5,121.527739,25.020758,wsqqm6vu3,3,台電大樓
+G09,1,False,0,True,古亭,Guting,古亭站出口1,Guting Exit 1,121.522973,25.025976,wsqqm7f6f,3,古亭
+G09,2,True,2,False,古亭,Guting,古亭站出口2,Guting Exit 2,121.523353,25.025502,wsqqm7f85,3,古亭
+G09,3,False,1,False,古亭,Guting,古亭站出口3,Guting Exit 3,121.523353,25.026078,wsqqm7fe7,3,古亭
+G09,4,True,0,False,古亭,Guting,古亭站出口4,Guting Exit 4,121.523069,25.026424,wsqqm7fmk,3,古亭
+G09,5,False,1,False,古亭,Guting,古亭站出口5,Guting Exit 5,121.522873,25.027184,wsqqmk43b,3,古亭
+G09,6,True,0,False,古亭,Guting,古亭站出口6,Guting Exit 6,121.522297,25.027537,wsqqmk1gf,3,古亭
+G09,7,False,1,False,古亭,Guting,古亭站出口7,Guting Exit 7,121.521937,25.02742,wsqqmk1e6,3,古亭
+G09,8,True,0,False,古亭,Guting,古亭站出口8,Guting Exit 8,121.521894,25.027056,wsqqmk191,3,古亭
+G09,9,True,0,False,古亭,Guting,古亭站出口9,Guting Exit 9,121.522404,25.026798,wsqqm7czt,3,古亭
+G11,1,True,4,False,小南門,Xiaonanmen,小南門站出口1,Xiaonanmen Exit 1,121.509752,25.036434,wsqqmj8xy,3,小南門
+G11,2,True,0,False,小南門,Xiaonanmen,小南門站出口2,Xiaonanmen Exit 2,121.509865,25.035736,wsqqmj8g9,3,小南門
+G11,3,False,1,True,小南門,Xiaonanmen,小南門站出口3,Xiaonanmen Exit 3,121.510988,25.035309,wsqqmj995,3,小南門
+G11,4,True,0,False,小南門,Xiaonanmen,小南門站出口4,Xiaonanmen Exit 4,121.511455,25.035226,wsqqmj9by,3,小南門
+G13,1,True,2,False,北門,Beimen,北門站出口1,Beimen Exit 1,121.509862,25.048737,wsqqmpbz3,3,北門
+G13,2,True,2,True,北門,Beimen,北門站出口2,Beimen Exit 2,121.510506,25.049583,wsqqt01k2,3,北門
+G13,3,True,2,True,北門,Beimen,北門站出口3,Beimen Exit 3,121.510227,25.049943,wsqqt01n3,3,北門
+G14,1,True,2,False,中山,Zhongshan,中山站出口1,Zhongshan Exit 1,121.520303,25.052414,wsqqt28ku,3,中山
+G14,2,True,0,False,中山,Zhongshan,中山站出口2,Zhongshan Exit 2,121.521063,25.052382,wsqqt28uw,3,中山
+G14,3,True,0,False,中山,Zhongshan,中山站出口3,Zhongshan Exit 3,121.521154,25.052611,wsqqt29n0,3,中山
+G14,4,False,1,True,中山,Zhongshan,中山站出口4,Zhongshan Exit 4,121.520306,25.052858,wsqqt28rk,3,中山
+G14,5,True,1,True,中山,Zhongshan,中山站出口5,Zhongshan Exit 5,121.519329,25.053037,wsqqt0z8t,3,中山
+G14,6,True,1,True,中山,Zhongshan,中山站出口6,Zhongshan Exit 6,121.519007,25.052833,wsqqt0xrq,3,中山
+G15,1,True,1,True,松江南京,Songjiang Nanjing,松江南京站出口1,Songjiang Nanjing Exit 1,121.532388,25.051842,wsqqt891t,3,松江南京
+G15,2,True,1,True,松江南京,Songjiang Nanjing,松江南京站出口2,Songjiang Nanjing Exit 2,121.532875,25.051342,wsqqt83w9,3,松江南京
+G15,3,True,1,False,松江南京,Songjiang Nanjing,松江南京站出口3,Songjiang Nanjing Exit 3,121.53287,25.051085,wsqqt83t1,3,松江南京
+G15,4,True,2,False,松江南京,Songjiang Nanjing,松江南京站出口4,Songjiang Nanjing Exit 4,121.53324,25.051624,wsqqt89b3,3,松江南京
+G15,5,True,0,False,松江南京,Songjiang Nanjing,松江南京站出口5,Songjiang Nanjing Exit 5,121.534081,25.051882,wsqqt8d3v,3,松江南京
+G15,6,True,0,False,松江南京,Songjiang Nanjing,松江南京站出口6,Songjiang Nanjing Exit 6,121.533727,25.052095,wsqqt8d5j,3,松江南京
+G15,7,True,2,False,松江南京,Songjiang Nanjing,松江南京站出口7,Songjiang Nanjing Exit 7,121.533195,25.05247,wsqqt89v0,3,松江南京
+G15,8,True,1,True,松江南京,Songjiang Nanjing,松江南京站出口8,Songjiang Nanjing Exit 8,121.532826,25.05257,wsqqt89tb,3,松江南京
+G16,1,True,1,True,南京復興,Nanjing Fuxing,南京復興站出口1,Nanjing Fuxing Exit 1,121.542121,25.052625,wsqqtb8q0,3,南京復興
+G16,2,True,1,True,南京復興,Nanjing Fuxing,南京復興站出口2,Nanjing Fuxing Exit 2,121.541863,25.051748,wsqqtb814,3,南京復興
+G16,3,False,2,False,南京復興,Nanjing Fuxing,南京復興站出口3,Nanjing Fuxing Exit 3,121.543237,25.051719,wsqqtb90f,3,南京復興
+G16,4,False,3,False,南京復興,Nanjing Fuxing,南京復興站出口4,Nanjing Fuxing Exit 4,121.543237,25.051719,wsqqtb90f,3,南京復興
+G16,5,True,2,False,南京復興,Nanjing Fuxing,南京復興站出口5,Nanjing Fuxing Exit 5,121.544338,25.051727,wsqqtb9bu,3,南京復興
+G16,6,True,0,False,南京復興,Nanjing Fuxing,南京復興站出口6,Nanjing Fuxing Exit 6,121.544908,25.052057,wsqqtbd6c,3,南京復興
+G16,7,True,1,True,南京復興,Nanjing Fuxing,南京復興站出口7,Nanjing Fuxing Exit 7,121.54447,25.052329,wsqqtb9ur,3,南京復興
+G16,8,True,2,False,南京復興,Nanjing Fuxing,南京復興站出口8,Nanjing Fuxing Exit 8,121.543819,25.052018,wsqqtb9d8,3,南京復興
+G17,1,True,0,True,台北小巨蛋,Taipei Arena,台北小巨蛋站出口1,Taipei Arena Exit 1,121.55153,25.051836,wsqqtbx1e,3,台北小巨蛋
+G17,2,True,1,True,台北小巨蛋,Taipei Arena,台北小巨蛋站出口2,Taipei Arena Exit 2,121.550715,25.051571,wsqqtbqxb,3,台北小巨蛋
+G17,3,True,1,True,台北小巨蛋,Taipei Arena,台北小巨蛋站出口3,Taipei Arena Exit 3,121.552549,25.05152,wsqqtbrze,3,台北小巨蛋
+G17,4,True,0,False,台北小巨蛋,Taipei Arena,台北小巨蛋站出口4,Taipei Arena Exit 4,121.552898,25.051534,wsqqw02pg,3,台北小巨蛋
+G17,5,True,0,False,台北小巨蛋,Taipei Arena,台北小巨蛋站出口5,Taipei Arena Exit 5,121.552069,25.051838,wsqqtbx98,3,台北小巨蛋
+G18,1,True,2,True,南京三民,Nanjing Sanmin,南京三民站出口1,Nanjing Sanmin Exit 1,121.563643,25.051517,wsqqw0rzw,3,南京三民
+G18,2,True,2,True,南京三民,Nanjing Sanmin,南京三民站出口2,Nanjing Sanmin Exit 2,121.563073,25.051215,wsqqw0rtb,3,南京三民
+G18,3,True,2,False,南京三民,Nanjing Sanmin,南京三民站出口3,Nanjing Sanmin Exit 3,121.564595,25.051328,wsqqw22ws,3,南京三民
+G18,4,True,2,False,南京三民,Nanjing Sanmin,南京三民站出口4,Nanjing Sanmin Exit 4,121.56471,25.051588,wsqqw288p,3,南京三民
+G19,1,True,3,False,松山,Songshan,松山站出口1,Songshan Exit 1,121.577022,25.050171,wsqqw81xv,3,松山
+G19,2,True,2,False,松山,Songshan,松山站出口2,Songshan Exit 2,121.576244,25.050171,wsqqw81pg,3,松山
+G19,3,True,1,True,松山,Songshan,松山站出口3,Songshan Exit 3,121.577464,25.049799,wsqqw84j8,3,松山
+G19,4,True,1,False,松山,Songshan,松山站出口4,Songshan Exit 4,121.577971,25.049799,wsqqw84ms,3,松山
+G19,5,True,1,True,松山,Songshan,松山站出口5,Songshan Exit 5,121.57813,25.050557,wsqqw866p,3,松山
+G03A,1,True,1,True,小碧潭,Xiaobitan,小碧潭站出口1,Xiaobitan Exit 1,121.530311,24.971684,wsqqj3zwt,3,小碧潭
+G03A,2,True,1,True,小碧潭,Xiaobitan,小碧潭站出口2,Xiaobitan Exit 2,121.52995,24.973192,wsqqj6prm,3,小碧潭
+O01,1,True,4,False,南勢角,Nanshijiao,南勢角站出口1,Nanshijiao Exit 1,121.508639,24.990016,wsqqhvrck,3,南勢角
+O01,2,True,4,False,南勢角,Nanshijiao,南勢角站出口2,Nanshijiao Exit 2,121.508853,24.989919,wsqqjj20c,3,南勢角
+O01,3,True,2,True,南勢角,Nanshijiao,南勢角站出口3,Nanshijiao Exit 3,121.509395,24.989651,wsqqjj0rq,3,南勢角
+O01,4,True,4,False,南勢角,Nanshijiao,南勢角站出口4,Nanshijiao Exit 4,121.509776,24.989486,wsqqjj0wq,3,南勢角
+O02,0,True,0,False,景安,Jingan,景安站出口,Jingan Exit,121.504632,24.993731,wsqqhvuzp,3,景安
+O03,0,True,1,True,永安市場,Yongan Market,永安市場站出口,Yongan Market Exit,121.510962,25.002375,wsqqjp996,3,永安市場
+O04,1,True,1,True,頂溪,Dingxi,頂溪站出口1,Dingxi Exit 1,121.515414,25.012895,wsqqm1kyd,3,頂溪
+O04,2,True,0,False,頂溪,Dingxi,頂溪站出口2,Dingxi Exit 2,121.515446,25.014222,wsqqm1sy7,3,頂溪
+O06,1,False,2,False,東門,Dongmen,東門站出口1,Dongmen Exit 1,121.527994,25.034157,wsqqmmmfx,3,東門
+O06,2,True,0,False,東門,Dongmen,東門站出口2,Dongmen Exit 2,121.527565,25.03422,wsqqmmmdv,3,東門
+O06,3,True,2,False,東門,Dongmen,東門站出口3,Dongmen Exit 3,121.527854,25.033676,wsqqmmjzs,3,東門
+O06,4,True,0,False,東門,Dongmen,東門站出口4,Dongmen Exit 4,121.528879,25.033646,wsqqmmnxs,3,東門
+O06,5,False,1,False,東門,Dongmen,東門站出口5,Dongmen Exit 5,121.529506,25.033564,wsqqmmpp4,3,東門
+O06,6,True,0,False,東門,Dongmen,東門站出口6,Dongmen Exit 6,121.529957,25.033924,wsqqmmr3j,3,東門
+O06,7,False,2,False,東門,Dongmen,東門站出口7,Dongmen Exit 7,121.529678,25.033962,wsqqmmr1q,3,東門
+O06,8,True,0,True,東門,Dongmen,東門站出口8,Dongmen Exit 8,121.528965,25.034074,wsqqmmqdn,3,東門
+O07,1,False,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口1,Zhongxiao Xinsheng Exit 1,121.531829,25.042784,wsqqmwbub,3,忠孝新生
+O07,2,True,1,True,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口2,Zhongxiao Xinsheng Exit 2,121.532065,25.042103,wsqqmwbby,3,忠孝新生
+O07,3,True,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口3,Zhongxiao Xinsheng Exit 3,121.53368,25.041783,wsqqmwdnu,3,忠孝新生
+O07,4,False,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口4,Zhongxiao Xinsheng Exit 4,121.533213,25.042458,wsqqmwcfc,3,忠孝新生
+O07,5,True,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口5,Zhongxiao Xinsheng Exit 5,121.532232,25.041214,wsqqmw95d,3,忠孝新生
+O07,6,False,1,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口6,Zhongxiao Xinsheng Exit 6,121.533068,25.040791,wsqqmw99j,3,忠孝新生
+O07,7,True,0,False,忠孝新生,Zhongxiao Xinsheng,忠孝新生站出口7,Zhongxiao Xinsheng Exit 7,121.533068,25.041729,wsqqmw9wt,3,忠孝新生
+O08,1,True,1,True,松江南京,Songjiang Nanjing,松江南京站出口1,Songjiang Nanjing Exit 1,121.532388,25.051842,wsqqt891t,3,松江南京
+O08,2,True,1,True,松江南京,Songjiang Nanjing,松江南京站出口2,Songjiang Nanjing Exit 2,121.532875,25.051342,wsqqt83w9,3,松江南京
+O08,3,True,1,False,松江南京,Songjiang Nanjing,松江南京站出口3,Songjiang Nanjing Exit 3,121.53287,25.051085,wsqqt83t1,3,松江南京
+O08,4,True,2,False,松江南京,Songjiang Nanjing,松江南京站出口4,Songjiang Nanjing Exit 4,121.53324,25.051624,wsqqt89b3,3,松江南京
+O08,5,True,0,False,松江南京,Songjiang Nanjing,松江南京站出口5,Songjiang Nanjing Exit 5,121.534081,25.051882,wsqqt8d3v,3,松江南京
+O08,6,True,0,False,松江南京,Songjiang Nanjing,松江南京站出口6,Songjiang Nanjing Exit 6,121.533727,25.052095,wsqqt8d5j,3,松江南京
+O08,7,True,2,False,松江南京,Songjiang Nanjing,松江南京站出口7,Songjiang Nanjing Exit 7,121.533195,25.05247,wsqqt89v0,3,松江南京
+O08,8,True,1,True,松江南京,Songjiang Nanjing,松江南京站出口8,Songjiang Nanjing Exit 8,121.532826,25.05257,wsqqt89tb,3,松江南京
+O09,1,True,2,False,行天宮,Xingtian Temple,行天宮站出口1,Xingtian Temple Exit 1,121.533004,25.058316,wsqqt99xk,3,行天宮
+O09,2,True,1,True,行天宮,Xingtian Temple,行天宮站出口2,Xingtian Temple Exit 2,121.533342,25.058792,wsqqt9cfh,3,行天宮
+O09,3,True,2,False,行天宮,Xingtian Temple,行天宮站出口3,Xingtian Temple Exit 3,121.533393,25.059868,wsqqtd1bm,3,行天宮
+O09,4,False,1,False,行天宮,Xingtian Temple,行天宮站出口4,Xingtian Temple Exit 4,121.532991,25.060365,wsqqtd1e5,3,行天宮
+O10,1,True,1,False,中山國小,Zhongshan Elementary School,中山國小站出口1,Zhongshan Elementary School Exit 1,121.526095,25.06284,wsqqt6s9e,3,中山國小
+O10,2,True,2,False,中山國小,Zhongshan Elementary School,中山國小站出口2,Zhongshan Elementary School Exit 2,121.526148,25.062461,wsqqt6kxk,3,中山國小
+O10,3,True,2,False,中山國小,Zhongshan Elementary School,中山國小站出口3,Zhongshan Elementary School Exit 3,121.527114,25.062476,wsqqt6mre,3,中山國小
+O10,4,True,2,True,中山國小,Zhongshan Elementary School,中山國小站出口4,Zhongshan Elementary School Exit 4,121.526835,25.062835,wsqqt6t1s,3,中山國小
+O11,1,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口1,Minquan W.Rd. Exit 1,121.519454,25.062641,wsqqt4xb2,3,民權西路
+O11,10,False,2,True,民權西路,Minquan W. Rd.,民權西路站出口10,Minquan W.Rd. Exit 10,121.519791,25.063063,wsqqt684b,3,民權西路
+O11,2,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口2,Minquan W.Rd. Exit 4,121.519614,25.061878,wsqqt4ruh,3,民權西路
+O11,3,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口3,Minquan W.Rd. Exit 3,121.519786,25.061766,wsqqt6252,3,民權西路
+O11,4,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口4,Minquan W.Rd. Exit 2,121.519867,25.061936,wsqqt62h6,3,民權西路
+O11,5,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口5,Minquan W.Rd. Exit 5,121.518558,25.063122,wsqqt4x57,3,民權西路
+O11,6,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口6,Minquan W.Rd. Exit 6,121.51853,25.062693,wsqqt4x0f,3,民權西路
+O11,7,False,2,False,民權西路,Minquan W. Rd.,民權西路站出口7,Minquan W.Rd. Exit 7,121.520092,25.06267,wsqqt680x,3,民權西路
+O11,8,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口8,Minquan W.Rd. Exit 8,121.520602,25.06266,wsqqt688e,3,民權西路
+O11,9,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口9,Minquan W.Rd. Exit 9,121.520744,25.063027,wsqqt68dw,3,民權西路
+O12,,True,1,False,大橋頭,Daqiaotou,大橋頭站出口1A,Daqiaotou Exit 1A,121.511543,25.063367,wsqqt4dh8,3,大橋頭站
+O12,1,True,1,True,大橋頭,Daqiaotou,大橋頭站出口1,Daqiaotou Exit 1,121.512319,25.06318,wsqqt4ded,3,大橋頭站
+O12,2,True,2,False,大橋頭,Daqiaotou,大橋頭站出口2,Daqiaotou Exit 2,121.513258,25.063195,wsqqt4e78,3,大橋頭站
+O12,3,True,1,False,大橋頭,Daqiaotou,大橋頭站出口3,Daqiaotou Exit 3,121.51344,25.063739,wsqqt4equ,3,大橋頭站
+O50,0,True,1,True,三重國小,Sanchong Elementary School,三重國小站出口,Sanchong Elementary School Exit ,121.496656,25.070536,wsqqseznm,3,三重國小
+O13,0,True,1,True,台北橋,Taipei Bridge,臺北橋站出口,Taipei Bridge Exit,121.500281,25.062966,wsqqsf9f3,3,台北橋
+O51,1,True,1,True,三和國中,Sanhe Junior High School,三和國中站出口1,Sanhe Junior High School Exit 1,121.486398,25.076586,wsqqsmp9w,3,三和國中
+O14,1,True,2,False,菜寮,Cailiao,菜寮站出口1,Cailiao Exit 1,121.490673,25.05971,wsqqs9fz3,3,菜寮
+O51,2,True,1,False,三和國中,Sanhe Junior High School,三和國中站出口2,Sanhe Junior High School Exit 2,121.486752,25.076946,wsqqsmpgy,3,三和國中
+O14,2,True,1,True,菜寮,Cailiao,菜寮站出口2,Cailiao Exit 2,121.491106,25.059287,wsqqs9ghg,3,菜寮
+O14,3,True,2,False,菜寮,Cailiao,菜寮站出口3,Cailiao Exit 3,121.492111,25.060556,wsqqsd5u7,3,菜寮
+O15,1,True,1,True,三重,Sanchong,三重站出口1,Sanchong Exit 1,121.483748,25.055303,wsqqs3jv8,3,三重
+O52,1,True,1,False,徐匯中學,St.lgnatius High School,徐匯中學站出口1,St. lgnatius High School Exit 1,121.47988,25.080303,wsqqsmdzq,3,徐匯中學
+O15,2,True,2,False,三重,Sanchong,三重站出口2,Sanchong Exit 2,121.484451,25.055429,wsqqs3nq2,3,三重
+O52,2,True,1,True,徐匯中學,St.lgnatius High School,徐匯中學站出口2,St. lgnatius High School Exit 2,121.480583,25.080332,wsqqsmerw,3,徐匯中學
+O15,3,True,2,False,三重,Sanchong,三重站出口3,Sanchong Exit 3,121.485282,25.056134,wsqqs3qfs,3,三重
+O53,1,True,1,True,三民高中,Sanmin Senior High School,三民高中站出口1,Sanmin Senior High School Exit 1,121.472542,25.085494,wsqqsntte,3,三民高中
+O16,1,True,2,True,先嗇宮,Xianse Temple,先嗇宮站出口1,Xianse Temple Exit 1,121.471319,25.046497,wsqqkpsdq,3,先嗇宮
+O53,2,True,1,False,三民高中,Sanmin Senior High School,三民高中站出口2,Sanmin Senior High School Exit 2,121.473739,25.085791,wsqqsnwrr,3,三民高中
+O16,2,True,2,False,先嗇宮,Xianse Temple,先嗇宮站出口2,Xianse Temple Exit 2,121.471372,25.046094,wsqqkpsb0,3,先嗇宮
+O16,3,True,3,False,先嗇宮,Xianse Temple,先嗇宮站出口3,Xianse Temple Exit 3,121.471801,25.046239,wsqqkpt0f,3,先嗇宮
+O54,1,True,1,False,蘆洲,Luzhou,蘆洲站出口1,Luzhou Exit 1,121.464565,25.091463,wsqqezzb3,3,蘆洲
+O17,1,True,0,False,頭前庄,Touqianzhuang,頭前庄站出口1,Touqianzhuang Exit 1,121.460303,25.039844,wsqq7ykew,3,頭前庄
+O54,2,True,2,True,蘆洲,Luzhou,蘆洲站出口2,Luzhou Exit 2,121.464597,25.091609,wsqqezzc4,3,蘆洲
+O17,2,True,2,False,頭前庄,Touqianzhuang,頭前庄站出口2,Touqianzhuang Exit 2,121.460931,25.039068,wsqq7yjph,3,頭前庄
+O54,3,True,2,False,蘆洲,Luzhou,蘆洲站出口3,Luzhou Exit 3,121.464425,25.091618,wsqqezz9q,3,蘆洲
+O17,3,True,2,False,頭前庄,Touqianzhuang,頭前庄站出口3,Touqianzhuang Exit 3,121.462247,25.039853,wsqq7yq5e,3,頭前庄
+O17,4,True,2,False,頭前庄,Touqianzhuang,頭前庄站出口4,Touqianzhuang Exit 4,121.462242,25.040485,wsqq7yqp7,3,頭前庄
+O18,1,True,2,True,新莊,Xinzhuang,新莊站出口1,Xinzhuang Exit 1,121.452168,25.03615,wsqq7twy0,3,新莊
+O18,2,True,1,True,新莊,Xinzhuang,新莊站出口2,Xinzhuang Exit 2,121.4525,25.036014,wsqq7txj2,3,新莊
+O19,1,True,2,True,輔大,Fu Jen University,輔大站出口1,Fu Jen University Exit 1,121.435264,25.032932,wsqq7m47q,3,輔大
+O19,2,True,0,True,輔大,Fu Jen University,輔大站出口2,Fu Jen University Exit 2,121.435277,25.032315,wsqq7kfrz,3,輔大
+O19,3,True,2,False,輔大,Fu Jen University,輔大站出口3,Fu Jen University Exit 3,121.436541,25.032776,wsqq7m56k,3,輔大
+O19,4,True,2,False,輔大,Fu Jen University,輔大站出口4,Fu Jen University Exit 4,121.43652,25.033175,wsqq7m5ku,3,輔大
+O20,1,True,0,False,丹鳳,Danfeng,丹鳳站出口1,Danfeng Exit 1,121.422282,25.029048,wsqq7h3hb,3,丹鳳
+O20,2,True,1,True,丹鳳,Danfeng,丹鳳站出口2,Danfeng Exit 2,121.422615,25.028742,wsqq7h34z,3,丹鳳
+O21,1,True,1,True,迴龍,Huilong,迴龍站出口1,Huilong Exit 1,121.411264,25.021864,wsqq6g0fz,3,迴龍
+O21,2,True,2,False,迴龍,Huilong,迴龍站出口2,Huilong Exit 2,121.41077,25.02118,wsqq6fbwg,3,迴龍
+O21,3,True,1,False,迴龍,Huilong,迴龍站出口3,Huilong Exit 3,121.412482,25.022637,wsqq6g1z7,3,迴龍
+R02,1,True,2,True,象山,Xiangshan,象山站出口1,Xiangshan Exit 1,121.569394,25.033025,wsqqqmh5u,3,象山
+R02,2,True,1,True,象山,Xiangshan,象山站出口2,Xiangshan Exit 2,121.569809,25.032366,wsqqqmh2j,3,象山
+R02,3,True,2,False,象山,Xiangshan,象山站出口3,Xiangshan Exit 3,121.570408,25.03302,wsqqqmhgg,3,象山
+R03,1,True,2,False,台北101/世貿,Taipei 101/World Trade Center,台北101/世貿站出口1,Taipei 101/World Trade Center Exit 1,121.561671,25.033107,wsqqqjns2,3,台北101/世貿
+R03,2,True,2,False,台北101/世貿,Taipei 101/World Trade Center,台北101/世貿站出口2,Taipei 101/World Trade Center Exit 2,121.561564,25.032733,wsqqqjn6j,3,台北101/世貿
+R03,3,True,2,True,台北101/世貿,Taipei 101/World Trade Center,台北101/世貿站出口3,Taipei 101/World Trade Center Exit 3,121.563646,25.032742,wsqqqjpfq,3,台北101/世貿
+R03,4,True,1,True,台北101/世貿,Taipei 101/World Trade Center,台北101/世貿站出口4,Taipei 101/World Trade Center Exit 4,121.564112,25.033034,wsqqqm07c,3,台北101/世貿
+R03,5,True,2,True,台北101/世貿,Taipei 101/World Trade Center,台北101/世貿站出口5,Taipei 101/World Trade Center Exit 5,121.563292,25.033102,wsqqqjpsq,3,台北101/世貿
+R04,,False,0,True,信義安和,Xinyi Anhe,信義安和站出口2A,Xinyi Anhe Exit 2A,121.552582,25.03284,wsqqmvpfu,3,信義安和
+R04,1,True,2,False,信義安和,Xinyi Anhe,信義安和站出口1,Xinyi Anhe Exit 1,121.552602,25.033377,wsqqmvpvu,3,信義安和
+R04,2,True,2,False,信義安和,Xinyi Anhe,信義安和站出口2,Xinyi Anhe Exit 2,121.552332,25.033032,wsqqmvpey,3,信義安和
+R04,3,False,2,False,信義安和,Xinyi Anhe,信義安和站出口3,Xinyi Anhe Exit 3,121.553282,25.033022,wsqqqj07u,3,信義安和
+R04,4,True,0,False,信義安和,Xinyi Anhe,信義安和站出口4,Xinyi Anhe Exit 4,121.5534,25.033022,wsqqqj07z,3,信義安和
+R04,5,True,1,True,信義安和,Xinyi Anhe,信義安和站出口5,Xinyi Anhe Exit 5,121.553526,25.033326,wsqqqj0td,3,信義安和
+R05,1,True,2,False,大安,Daan,大安站出口1,Daan Exit 1,121.541949,25.033508,wsqqmv0nu,3,大安
+R05,2,True,0,False,大安,Daan,大安站出口2,Daan Exit 2,121.541826,25.033515,wsqqmv0nc,3,大安
+R05,3,True,2,True,大安,Daan,大安站出口3,Daan Exit 3,121.54233,25.033241,wsqqmv0mj,3,大安
+R05,4,True,0,False,大安,Daan,大安站出口4,Daan Exit 4,121.544057,25.033066,wsqqmv1sj,3,大安
+R05,5,True,0,False,大安,Daan,大安站出口5,Daan Exit 5,121.543719,25.032862,wsqqmv16v,3,大安
+R05,6,True,2,False,大安,Daan,大安站出口6,Daan Exit 6,121.543749,25.034006,wsqqmv33w,3,大安
+R06,1,True,0,False,大安森林公園,Daan Park,大安森林公園站出口1,Daan Park Exit 1,121.534442,25.033693,wsqqmt4xv,3,大安森林公園
+R06,2,True,1,False,大安森林公園,Daan Park,大安森林公園站出口2,Daan Park Exit 2,121.534487,25.033391,wsqqmt4wn,3,大安森林公園
+R06,3,True,0,False,大安森林公園,Daan Park,大安森林公園站出口3,Daan Park Exit 3,121.534882,25.033396,wsqqmt5n0,3,大安森林公園
+R06,4,False,0,True,大安森林公園,Daan Park,大安森林公園站出口4,Daan Park Exit 4,121.535292,25.033391,wsqqmt5q1,3,大安森林公園
+R06,5,True,1,True,大安森林公園,Daan Park,大安森林公園站出口5,Daan Park Exit 5,121.535989,25.033369,wsqqmt5vc,3,大安森林公園
+R06,6,True,1,True,大安森林公園,Daan Park,大安森林公園站出口6,Daan Park Exit 6,121.535952,25.033654,wsqqmt5z8,3,大安森林公園
+R08,1,False,1,True,中正紀念堂,Chiang Kai-Shek Memorial Hall,中正紀念堂站出口1,Chiang Kai-Shek Memorial Hall Exit 1,121.517764,25.033034,wsqqmjnec,3,中正紀念堂
+R08,2,True,2,False,中正紀念堂,Chiang Kai-Shek Memorial Hall,中正紀念堂站出口2,Chiang Kai-Shek Memorial Hall Exit 2,121.518261,25.032406,wsqqmjnbk,3,中正紀念堂
+R08,3,True,2,False,中正紀念堂,Chiang Kai-Shek Memorial Hall,中正紀念堂站出口3,Chiang Kai-Shek Memorial Hall Exit 3,121.519,25.032281,wsqqmhzrt,3,中正紀念堂
+R08,4,True,0,False,中正紀念堂,Chiang Kai-Shek Memorial Hall,中正紀念堂站出口4,Chiang Kai-Shek Memorial Hall Exit 4,121.51796,25.033525,wsqqmjnwv,3,中正紀念堂
+R08,5,True,1,True,中正紀念堂,Chiang Kai-Shek Memorial Hall,中正紀念堂站出口5,Chiang Kai-Shek Memorial Hall Exit 5,121.517109,25.035148,wsqqmjw03,3,中正紀念堂
+R08,6,True,0,False,中正紀念堂,Chiang Kai-Shek Memorial Hall,中正紀念堂站出口6,Chiang Kai-Shek Memorial Hall Exit 6,121.516543,25.03588,wsqqmjtss,3,中正紀念堂
+R08,7,True,2,False,中正紀念堂,Chiang Kai-Shek Memorial Hall,中正紀念堂站出口7,Chiang Kai-Shek Memorial Hall Exit 7,121.515983,25.034565,wsqqmjmhz,3,中正紀念堂
+R09,1,True,1,True,台大醫院,NTU Hospital,台大醫院站出口1,NTU Hospital Exit 1,121.515731,25.040913,wsqqmnt1c,3,台大醫院
+R09,2,True,1,True,台大醫院,NTU Hospital,台大醫院站出口2,NTU Hospital Exit 2,121.516589,25.041224,wsqqmntet,3,台大醫院
+R09,3,True,0,True,台大醫院,NTU Hospital,台大醫院站出口3,NTU Hospital Exit 3,121.516632,25.042808,wsqqmnvsy,3,台大醫院
+R09,4,True,1,False,台大醫院,NTU Hospital,台大醫院站出口4,NTU Hospital Exit 4,121.516299,25.042876,wsqqmnvmq,3,台大醫院
+R10,,False,1,False,台北車站,Taipei Main Station,台北車站M3,Taipei Main Station Exit M3,121.517882,25.046337,wsqqmpw97,3,台北車站
+R10,,True,1,True,台北車站,Taipei Main Station,台北車站M2,Taipei Main Station Exit M2,121.519067,25.048064,wsqqmpz7x,3,台北車站
+R10,,True,2,False,台北車站,Taipei Main Station,台北車站M1,Taipei Main Station Exit M1,121.518193,25.048232,wsqqmpyue,3,台北車站
+R10,,False,1,True,台北車站,Taipei Main Station,台北車站M4,Taipei Main Station Exit M4,121.517345,25.046485,wsqqmpw4r,3,台北車站
+R10,,False,1,False,台北車站,Taipei Main Station,台北車站M5,Taipei Main Station Exit M5,121.516246,25.046755,wsqqmpt7v,3,台北車站
+R10,,True,0,False,台北車站,Taipei Main Station,台北車站M6,Taipei Main Station Exit M6,121.516787,25.046234,wsqqmptbf,3,台北車站
+R10,,False,1,False,台北車站,Taipei Main Station,台北車站M8,Taipei Main Station Exit M8,121.517479,25.045948,wsqqmpqr4,3,台北車站
+R10,,True,0,False,台北車站,Taipei Main Station,台北車站M7,Taipei Main Station Exit M7,121.518643,25.046077,wsqqmprpv,3,台北車站
+R11,1,True,2,False,中山,Zhongshan,中山站出口1,Zhongshan Exit 1,121.520303,25.052414,wsqqt28ku,3,中山
+R11,2,True,0,False,中山,Zhongshan,中山站出口2,Zhongshan Exit 2,121.521063,25.052382,wsqqt28uw,3,中山
+R11,3,True,0,False,中山,Zhongshan,中山站出口3,Zhongshan Exit 3,121.521154,25.052611,wsqqt29n0,3,中山
+R11,4,False,1,True,中山,Zhongshan,中山站出口4,Zhongshan Exit 4,121.520306,25.052858,wsqqt28rk,3,中山
+R11,5,True,1,True,中山,Zhongshan,中山站出口5,Zhongshan Exit 5,121.519329,25.053037,wsqqt0z8t,3,中山
+R11,6,True,1,True,中山,Zhongshan,中山站出口6,Zhongshan Exit 6,121.519007,25.052833,wsqqt0xrq,3,中山
+R12,1,True,2,False,雙連,Shuanglian,雙連站出口1,Shuanglian Exit 1,121.520588,25.057499,wsqqt38dd,3,雙連
+R12,2,True,1,True,雙連,Shuanglian,雙連站出口2,Shuanglian Exit 2,121.520615,25.057825,wsqqt38s7,3,雙連
+R13,1,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口1,Minquan W.Rd. Exit 1,121.519454,25.062641,wsqqt4xb2,3,民權西路
+R13,10,False,2,True,民權西路,Minquan W. Rd.,民權西路站出口10,Minquan W.Rd. Exit 10,121.519791,25.063063,wsqqt684b,3,民權西路
+R13,2,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口2,Minquan W.Rd. Exit 4,121.519614,25.061878,wsqqt4ruh,3,民權西路
+R13,3,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口3,Minquan W.Rd. Exit 3,121.519786,25.061766,wsqqt6252,3,民權西路
+R13,4,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口4,Minquan W.Rd. Exit 2,121.519867,25.061936,wsqqt62h6,3,民權西路
+R13,5,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口5,Minquan W.Rd. Exit 5,121.518558,25.063122,wsqqt4x57,3,民權西路
+R13,6,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口6,Minquan W.Rd. Exit 6,121.51853,25.062693,wsqqt4x0f,3,民權西路
+R13,7,False,2,False,民權西路,Minquan W. Rd.,民權西路站出口7,Minquan W.Rd. Exit 7,121.520092,25.06267,wsqqt680x,3,民權西路
+R13,8,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口8,Minquan W.Rd. Exit 8,121.520602,25.06266,wsqqt688e,3,民權西路
+R13,9,True,0,False,民權西路,Minquan W. Rd.,民權西路站出口9,Minquan W.Rd. Exit 9,121.520744,25.063027,wsqqt68dw,3,民權西路
+R14,1,True,0,False,圓山,Yuanshan,圓山站出口1,Yaunshan Exit 1,121.520033,25.070785,wsqqt7bpy,3,圓山
+R14,2,True,0,False,圓山,Yuanshan,圓山站出口2,Yaunshan Exit 2,121.520108,25.071776,wsqqtk0jx,3,圓山
+R15,1,True,0,False,劍潭,Jiantan,劍潭站出口1,Jiantan Exit 1,121.525175,25.08503,wsqqtqefv,3,劍潭
+R15,2,True,0,False,劍潭,Jiantan,劍潭站出口2,Jiantan Exit 2,121.524807,25.083466,wsqqtq79v,3,劍潭
+R15,3,True,0,False,劍潭,Jiantan,劍潭站出口3,Jiantan Exit 3,121.52496,25.084284,wsqqtq7y8,3,劍潭
+R16,1,True,0,False,士林,Shilin,士林站出口1,Shilin Exit 1,121.525966,25.094106,wsqqv2hxb,3,士林
+R16,2,False,0,False,士林,Shilin,士林站出口2,Shilin Exit 2,121.526433,25.092901,wsqqv2hbe,3,士林
+R17,1,True,0,False,芝山,Zhishan,芝山站出口1,Zhishan Exit 1,121.522636,25.102046,wsqqv3dn4,3,芝山
+R17,2,True,0,False,芝山,Zhishan,芝山站出口2,Zhishan Exit 2,121.522356,25.103804,wsqqv61bk,3,芝山
+R18,1,True,0,False,明德,Mingde,明德站出口1,Mingde Exit 1,121.519153,25.109298,wsqqv5p83,3,明德
+R18,2,True,0,False,明德,Mingde,明德站出口2,Mingde Exit 2,121.518728,25.110008,wsqqv5phr,3,明德
+R18,3,True,0,False,明德,Mingde,明德站出口3,Mingde Exit 3,121.518495,25.110163,wsqqv5pj6,3,明德
+R19,1,True,0,False,石牌,Shipai,石牌站出口1,Shipai Exit 1,121.515171,25.115007,wsqqvhh9s,3,石牌
+R19,2,True,0,False,石牌,Shipai,石牌站出口2,Shipai Exit 2,121.516205,25.113602,wsqqv5v3k,3,石牌
+R20,1,True,0,False,唭哩岸,Qilian,唭哩岸站出口1,Qilian Exit 1,121.506987,25.120673,wsqquvndw,3,唭哩岸
+R20,2,True,0,False,唭哩岸,Qilian,唭哩岸站出口2,Qilian Exit 2,121.50589,25.120854,wsqquvjgs,3,唭哩岸
+R21,0,True,0,False,奇岩,Qiyan,奇岩站出口,Qiyan Exit,121.50096,25.126169,wsqquy469,3,奇岩
+R22,1,True,0,False,北投,Beitou,北投站出口1,Beitou Exit 1,121.49824,25.132316,wsqquz0q6,3,北投
+R22,2,True,0,False,北投,Beitou,北投站出口2,Beitou Exit 2,121.499231,25.131073,wsqquycp1,3,北投
+R23,1,True,0,False,復興崗,Fuxinggang,復興崗站出口1,Fuxinggang Exit 1,121.485373,25.137665,wsqrh2nvw,3,復興崗
+R23,2,True,0,False,復興崗,Fuxinggang,復興崗站出口2,Fuxinggang Exit 2,121.485159,25.137325,wsqrh2ng9,3,復興崗
+R24,1,True,0,False,忠義,Zhongyi,忠義站出口1,Zhongyi Exit 1,121.473169,25.131056,wsqqunyp1,3,忠義
+R24,2,True,0,False,忠義,Zhongyi,忠義站出口2,Zhongyi Exit 2,121.473657,25.130905,wsqqunyqj,3,忠義
+R25,1,True,0,False,關渡,Guandu,關渡站出口1,Guandu Exit 1,121.467215,25.125431,wsqqujcwp,3,關渡
+R25,2,True,0,False,關渡,Guandu,關渡站出口2,Guandu Exit 2,121.466861,25.12547,wsqqujcqr,3,關渡
+R26,1,True,0,False,竹圍,Zhuwei,竹圍站出口1,Zhuwei Exit 1,121.459726,25.136971,wsqr5bh32,3,竹圍
+R26,2,True,0,False,竹圍,Zhuwei,竹圍站出口2,Zhuwei Exit 2,121.459383,25.136854,wsqr5bh0b,3,竹圍
+R27,1,True,0,False,紅樹林,Hongshulin,紅樹林站出口1,Hongshulin Exit 1,121.459039,25.154137,wsqr5g5v2,3,紅樹林
+R27,2,True,0,False,紅樹林,Hongshulin,紅樹林站出口2,Hongshulin Exit 2,121.458583,25.153831,wsqr5g57w,3,紅樹林
+R28,1,True,0,False,淡水,Tamsui,淡水站出口1,Tamsui Exit 1,121.445355,25.168084,wsqr5t9y9,3,淡水
+R28,2,True,0,False,淡水,Tamsui,淡水站出口2,Tamsui Exit 2,121.445988,25.167577,wsqr5td7b,3,淡水
+R28,3,True,0,False,淡水,Tamsui,淡水站出口3,Tamsui Exit 3,121.445573,25.167601,wsqr5t9gy,3,淡水
+R22A,1,True,0,False,新北投,Xinbeitou,新北投站出口1,Xinbeitou Exit 1,121.503524,25.136968,wsqrhbh1m,3,新北投
+R22A,2,True,0,False,新北投,Xinbeitou,新北投站出口2,Xinbeitou Exit 2,121.502455,25.136834,wsqrhb52s,3,新北投
+Y07,1,True,1,False,大坪林,Dapinglin,大坪林站出口1,Dapinglin Exit 1,121.540874,24.982754,wsqqjezr5,3,大坪林
+Y07,2,True,0,False,大坪林,Dapinglin,大坪林站出口2,Dapinglin Exit 2,121.541619,24.982051,wsqqjezfu,3,大坪林
+Y07,3,True,1,True,大坪林,Dapinglin,大坪林站出口3,Dapinglin Exit 3,121.541572,24.982982,wsqqjspb7,3,大坪林
+Y07,4,True,0,False,大坪林,Dapinglin,大坪林站出口4,Dapinglin Exit 4,121.541405,24.983539,wsqqjspg8,3,大坪林
+Y07,5,True,2,True,大坪林,Dapinglin,大坪林站出口5,Dapinglin Exit 5,121.543209,24.982859,wsqqjgcpd,3,大坪林
+Y08,0,True,1,True,十四張,Shisizhang,十四張站出口,Shisizhang Exit,121.527701,24.984467,wsqqjkmc0,3,十四張
+Y09,1,True,1,False,秀朗橋,Xiulang Bridge,秀朗橋站出口1,Xiulang Bridge Exit 1,121.52574,24.990418,wsqqjmk7d,3,秀朗橋
+Y09,2,True,0,True,秀朗橋,Xiulang Bridge,秀朗橋站出口2,Xiulang Bridge Exit 2,121.525051,24.990549,wsqqjm7u6,3,秀朗橋
+Y10,0,True,1,True,景平,Jingping,景平站出口,Jingping Exit,121.516553,24.991968,wsqqjjtsu,3,景平
+Y11,0,True,0,False,景安,Jingan,景安站出口,Jingan Exit,121.504632,24.993731,wsqqhvuzp,3,景安
+Y12,0,True,1,True,中和,Zhonghe,中和站出口,Zhonghe Exit,121.496052,25.001981,wsqqhxqxp,3,中和
+Y13,0,True,1,True,橋和,Qiaohe,橋和站出口,Qiaohe Exit,121.490461,25.004413,wsqqhxftk,3,橋和
+Y14,0,True,1,True,中原,Zhongyuan,中原站出口,Zhongyuan Exit,121.484159,25.00841,wsqqk2whd,3,中原
+Y15,0,True,1,True,板新,Banxin,板新站出口,Banxin Exit,121.472212,25.014491,wsqqk1trg,3,板新
+Y16,4,True,1,True,板橋,Banqiao,板橋站出口4,Banqiao Exit 4,121.464938,25.015105,wsqqk1b5d,3,Y板橋
+Y16,5,True,1,True,板橋,Banqiao,板橋站出口5,Banqiao Exit 5,121.464312,25.015502,wsqq7cztg,3,Y板橋
+Y17,0,True,1,True,新埔民生,Xinpu Minsheng,新埔民生站出口,Xinpu Minsheng Exit,121.466839,25.026125,wsqqk5c7w,3,新埔民生
+Y18,1,True,0,False,頭前庄,Touqianzhuang,頭前庄站出口1,Touqianzhuang Exit 1,121.460303,25.039844,wsqq7ykew,3,頭前庄
+Y18,2,True,2,False,頭前庄,Touqianzhuang,頭前庄站出口2,Touqianzhuang Exit 2,121.460931,25.039068,wsqq7yjph,3,頭前庄
+Y18,3,True,2,False,頭前庄,Touqianzhuang,頭前庄站出口3,Touqianzhuang Exit 3,121.462247,25.039853,wsqq7yq5e,3,頭前庄
+Y18,4,True,2,False,頭前庄,Touqianzhuang,頭前庄站出口4,Touqianzhuang Exit 4,121.462242,25.040485,wsqq7yqp7,3,頭前庄
+Y19,1,True,1,True,幸福,Xingfu,幸福站出口1,Xingfu Exit 1,121.460146,25.050126,wsqqebhxd,3,幸福
+Y19,2,True,0,False,幸福,Xingfu,幸福站出口2,Xingfu Exit 2,121.460593,25.049545,wsqqebhuh,3,幸福
+Y20,0,True,1,True,新北產業園區,New Taipei Industrial Park,新北產業園區站出口,New Taipei Industrial Park Exit,121.459926,25.061548,wsqqefk6j,3,新北產業園區
