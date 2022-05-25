@@ -52,8 +52,8 @@ The project includes 3 datasets from 2 sources:
 
     | station name | station id | line | name in hourly traffic dataset | name in station dataset
     |---|---|---|---|---|
-    | Banqiao | BL08 | Blue | BL板橋 (BL-Banqiao) | 板橋 (Banqiao) |
-    | Banqiao | Y06 | Yellow | Y板橋 (Y-Banqiao) | 板橋 (Banqiao) |
+    | Banqiao | BL07 | Blue | BL板橋 (BL-Banqiao) | 板橋 (Banqiao) |
+    | Banqiao | Y16 | Yellow | Y板橋 (Y-Banqiao) | 板橋 (Banqiao) |
     | Daqiaotou | O12 | Orange | 大橋頭站 (Daqiaotou Station) | 大橋頭(Daqiaotou) |
 
 <p align="center">
