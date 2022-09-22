@@ -28,7 +28,7 @@ The project includes 3 datasets from 2 sources:
     <img src="img/stating_station_pt2.PNG" alt="stating_mrt_station">
   </p>
   
-  - Metro station exist data from [Public Transport Data Exchange](https://ptx.transportdata.tw/MOTC/). Columns include StationID, ExitID, Stair, Escalator, Elevator, StationName_Zh_tw, StationName_En, ExitName_Zh_tw, ExitName_En, ExitPosition_PositionLon, ExitPosition_PositionLat, ExitPosition_GeoHash, VersionID.
+  - Metro station exit data from [Public Transport Data Exchange](https://ptx.transportdata.tw/MOTC/). Columns include StationID, ExitID, Stair, Escalator, Elevator, StationName_Zh_tw, StationName_En, ExitName_Zh_tw, ExitName_En, ExitPosition_PositionLon, ExitPosition_PositionLat, ExitPosition_GeoHash, VersionID.
   <p align="center">  
     <img src="img/stating_station_exit_pt1.PNG" alt="stating_mrt_station_exit">
     <img src="img/stating_station_exit_pt2.PNG" alt="stating_mrt_station_exit">
