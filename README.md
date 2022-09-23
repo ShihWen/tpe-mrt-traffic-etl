@@ -76,7 +76,7 @@ The project includes 3 datasets from 2 sources:
     ```
   - Create tables with in Redshift with code from __mrt_create_tables.sql__
   - Run data pipelines by airlfow:
-    - Set up conections including _aws_credentials_ and _redshift_
+    - Set up variables for conections: _aws_credentials_ and _redshift_
     - Run dag:
       - Load station data and station exit data from S3 bucket into stagin table in redshift.
       - Transform station data and station exit data into format of dimension table.
