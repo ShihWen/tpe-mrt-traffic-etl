@@ -5,7 +5,7 @@
 
 Taipei Mass Rapid Transit (MRT) branded as Taipei Metro, is a rapid transit system serving the areas of Taipei and New Taipei in Taiwan, operated by the government owned Taipei Rapid Transit Corporation.
 
-Taipei Metro was the first metro system ever built in Taiwan. The initial network was approved for construction in 1986. Since 2008, the network has expanded to total 131 stations.
+Taipei Metro was the first metro system ever built in Taiwan. The initial network was approved for construction in 1986. Since 2008, the network has expanded to 131 stations in total.
 
 This project uses Taipei Metro hourly traffic data along with Metro station data and Metro station exit data to build a database for Metro traffic analysis.
 
